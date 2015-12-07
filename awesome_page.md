@@ -4,7 +4,7 @@
 
 **Bold text looks angry**
 
-_Bold and italic is usually overkill_
+**_TOO MUCH BOLD AND ITALIC_**
 
 `ls cd pwd`
 
